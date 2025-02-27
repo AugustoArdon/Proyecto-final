@@ -25,6 +25,3 @@ El programa toma en cuenta diferentes factores para calcular el costo total del 
 2. **Base de Datos:** Implementar almacenamiento de cotizaciones para futuras referencias y análisis de datos.
 3. **Optimización de Algoritmo:** Evaluar mejoras en la lógica del cálculo para reducir tiempos de procesamiento en grandes volúmenes de datos.
 4. **Integración Web:** Permitir cotizaciones en línea a través de un portal web.
-
-Este programa mejora significativamente la eficiencia del proceso de cotización, reduciendo tiempos de espera y aumentando la capacidad de atención de la empresa TK-U.
-
